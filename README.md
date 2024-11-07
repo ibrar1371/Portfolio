@@ -1,24 +1,56 @@
-<!--header-->
-<table>
-  <tr><td colspan="2"><a href="/README.md#%EF%B8%8F-templates">← Back to templates index</a></td></tr>
-  <tr><th colspan="2"><h3>📘 Web Development & Cloud Computing Template</h3></th></tr>
-  <tr><td colspan="2" align="center"><p>A template designed to reflect expertise in front-end and back-end development, cloud computing, and modern web technologies.</p>
-</td></tr>
-  <tr>
-    <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
-    <td><a href="/source/plugins/html/README.md" title="🌐 HTML">🌐</a> <a href="/source/plugins/react/README.md" title="⚛️ React">⚛️</a> <a href="/source/plugins/php/README.md" title="🐘 PHP">🐘</a> <a href="/source/plugins/js/README.md" title="📜 JavaScript">📜</a> <a href="/source/plugins/python/README.md" title="🐍 Python">🐍</a> <a href="/source/plugins/wordpress/README.md" title="🖌️ WordPress">🖌️</a> <a href="/source/plugins/shopify/README.md" title="🛍️ Shopify">🛍️</a> <a href="/source/plugins/figma/README.md" title="🎨 Figma">🎨</a> <a href="/source/plugins/cloud/README.md" title="☁️ Cloud Computing">☁️</a></td>
-  </tr>
-  <tr>
-    <td><code>📂 Repository Setup</code></td>
-  </tr>
-  <tr>
-    <td><code>📄 SVG</code> <code>🖼️ PNG</code> <code>🖼️ JPEG</code> <code>🔄 JSON</code></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.repository.svg" alt="Web Developer Template Preview">
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-</table>
-<!--/header-->
+# 👋 Hi, I'm Muhammad Ibrar Bhatti
+
+**Website Developer | Skilled in HTML, React.js, PHP, JavaScript, Python | Cloud Computing Student at Sir Syed University**
+
+📍 Karachi Division, Sindh, Pakistan
+
+---
+
+### 👨‍💻 About Me
+I'm a dedicated website developer with **1.5 years of experience** creating custom, dynamic web solutions. I have a strong technical foundation in front-end and back-end development, with skills across:
+
+- **Languages & Frameworks:** Custom HTML, React.js, PHP, JavaScript, Python
+- **Platforms & Tools:** WordPress, Shopify, Figma
+
+Currently, I'm a **Cloud Computing student** at Sir Syed University of Engineering and Technology, working to enhance my understanding of modern cloud solutions. I enjoy crafting responsive and impactful digital experiences that are tailored to meet client needs.
+
+---
+
+### 🛠️ Skills
+- **Front-End Development:** HTML, React.js, JavaScript
+- **Back-End Development:** PHP, Python
+- **CMS & E-commerce:** WordPress, Shopify
+- **Design & Prototyping:** Figma
+
+---
+
+### 💼 Experience
+
+**Web Developer**  
+*Ingenious Guru*  
+*January 2023 - Present (1 year 11 months)*  
+Karachi Division, Sindh, Pakistan
+
+---
+
+### 🎓 Education
+
+**Bachelor of Science - BS, Cloud Computing**  
+*Sir Syed University of Engineering and Technology*  
+October 2024 - August 2028
+
+---
+
+### 📫 Contact Me
+- **Phone:** 03194869475 (Work)
+- **Email:** muhammadibrar13717@gmail.com
+- **LinkedIn:** [linkedin.com/in/muhammadibrar-bhatti-3483b1337](https://www.linkedin.com/in/muhammadibrar-bhatti-3483b1337)
+
+---
+
+### 🔗 GitHub Stats
+![Muhammad Ibrar Bhatti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+
+---
+
+Feel free to explore my repositories and connect with me if you have any projects or opportunities you'd like to discuss!
